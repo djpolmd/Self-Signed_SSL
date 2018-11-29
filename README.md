@@ -1,5 +1,6 @@
 # Self-Signed_SSL
 ## Create a Self-Signed SSL Certificate for Apache in Ubuntu 16.04
+** No need dedidicate DNS.**
 
 Need Autority Signed   certificate?  the try this Link: [https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-16-04]<br>
 
